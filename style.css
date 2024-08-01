@@ -28,6 +28,8 @@ button:focus {
 .value input {
     border-radius: 10px;
     width: 340px;
+
+
     height: 100px;
     font-size: 30px;
     color: rgb(245, 8, 118);
